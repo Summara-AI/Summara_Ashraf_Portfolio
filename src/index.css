@@ -1,0 +1,41 @@
+@import url('https://api.fontshare.com/v2/css?f[]=clash-display@700,600,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Clash Display', sans-serif;
+}
+
+nav {
+  pointer-events: all !important;
+  z-index: 1000 !important;
+}
+
+nav button {
+  pointer-events: all !important;
+  cursor: pointer !important;
+}
+
+html, body {
+  background: #050505 !important;
+  color: #F8FAFC !important;
+  min-height: 100vh;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+#root {
+  min-height: 100vh;
+  background: #050505;
+  color: #F8FAFC;
+}
+
