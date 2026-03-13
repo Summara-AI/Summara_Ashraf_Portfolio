@@ -39,3 +39,22 @@ html, body {
   color: #F8FAFC;
 }
 
+@media (max-width: 768px) {
+  body {
+    cursor: auto !important;
+    overflow-x: hidden;
+  }
+  
+  html {
+    overflow-x: hidden;
+  }
+
+  h1 {
+    font-size: clamp(32px, 10vw, 56px) !important;
+  }
+
+  h2 {
+    font-size: clamp(28px, 8vw, 48px) !important;
+  }
+}
+
