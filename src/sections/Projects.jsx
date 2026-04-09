@@ -3,15 +3,7 @@ import { motion, useInView } from 'framer-motion'
 import { Github, ExternalLink } from 'lucide-react'
 
 const projects = [
-  {
-    number: '01',
-    title: 'CityPulse AI',
-    description: 'An AI-powered city guide delivering real-time insights about cities, attractions, and local experiences. Built with intelligent recommendations and a sleek modern interface.',
-    tech: ['React', 'AI/ML', 'REST APIs', 'Tailwind CSS', 'Vite'],
-    live: 'https://citypulse-ai.vercel.app',
-    github: 'https://github.com/Summara-AI',
-    accent: '#8B5CF6'
-  },
+  
   {
     number: '02',
     title: 'Restaurant Website',
