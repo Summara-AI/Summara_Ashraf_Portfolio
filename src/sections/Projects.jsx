@@ -2,7 +2,17 @@ import { useState, useEffect, useRef } from 'react'
 import { motion, useInView } from 'framer-motion'
 import { Github, ExternalLink } from 'lucide-react'
 
-const projects = [
+const projects = [{
+
+  number: '01',
+  title: 'VidMetric Youtube Analyzer',
+  description: "A youtube analyzer that shows latest youtube videos of channel with filters, worked on most recent videos.",
+  tech: ['Typescript', 'Next.js', 'Youtube API', 'Tailwind CSS', 'Recharts'],
+  live: 'https://vidmetric.vercel.app/',
+  github: 'https://github.com/Summara-AI/vidmetric',
+  accent: '#06B6D4'
+  
+  },
   
   {
     number: '02',
