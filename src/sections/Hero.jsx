@@ -49,10 +49,8 @@ export default function Hero() {
 
   const titles = [
     'Full Stack Developer',
-    'MERN Stack Developer',
-    'React Developer',
-    'Node.js Developer',
-    'Vibe Coder '
+    'MERN Stack Developer'
+    
   ]
 
   useEffect(() => {
