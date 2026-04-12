@@ -49,7 +49,8 @@ export default function Hero() {
 
   const titles = [
     'Full Stack Developer',
-    'MERN Stack Developer'
+    'MERN Stack Developer',
+    'Product Manager'
     
   ]
 
