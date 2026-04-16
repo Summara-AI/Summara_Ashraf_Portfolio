@@ -124,7 +124,7 @@ export default function About() {
             gap: '12px', marginBottom: '32px'
           }}>
             {[
-              { emoji: '🚀', value: '2+', label: 'Projects Built' },
+              { emoji: '🚀', value: '3', label: 'Projects Built' },
               { emoji: '⚡', value: 'MERN', label: 'Stack Expert' },
               { emoji: '🎨', value: 'Vibe', label: 'Coder' },
               { emoji: '📍', value: 'PK', label: 'Based' }
