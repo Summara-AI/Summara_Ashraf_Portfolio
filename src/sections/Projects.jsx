@@ -20,9 +20,19 @@ const projects = [{
     description: 'A modern, fully responsive restaurant website with elegant UI, interactive menu showcase, smooth animations, and seamless user experience.',
     tech: ['React', 'JavaScript', 'CSS3', 'Responsive Design'],
     live: 'https://restaurant-website-seven-vert.vercel.app',
-    github: 'https://github.com/Summara-AI',
+    github: 'https://github.com/Summara-AI/Restaurant-Website',
     accent: '#06B6D4'
-  }
+  }, 
+ { 
+   number: '03',
+   title: 'TikTok Next: Reimagined Social Interaction',
+   description: 'A high-fidelity, interactive, and responsive TikTok prototype built with modern web technologies. This project focuses on the "Social Interaction Layer," transforming passive content consumption into an active, data-driven creator-audience conversation.',
+   tech: ['React', 'vite', ' tailwind'],
+   live: 'https://vercel.com/summara-ais-projects/tik-tok-next-reimagined-social-interaction',
+   github:'https://github.com/Summara-AI/TikTok-Next-Reimagined-Social-Interaction-.git',
+   accent: '#06B6D4'
+ }
+                    
 ]
 
 export default function Projects() {
