@@ -28,7 +28,7 @@ const projects = [{
    title: 'TikTok Next: Reimagined Social Interaction',
    description: 'A high-fidelity, interactive, and responsive TikTok prototype built with modern web technologies. This project focuses on the "Social Interaction Layer," transforming passive content consumption into an active, data-driven creator-audience conversation.',
    tech: ['React', 'vite', ' tailwind'],
-   live: 'https://vercel.com/summara-ais-projects/tik-tok-next-reimagined-social-interaction',
+   live: 'https://tik-tok-next-reimagined-social-inte.vercel.app/',
    github:'https://github.com/Summara-AI/TikTok-Next-Reimagined-Social-Interaction-.git',
    accent: '#06B6D4'
  }
