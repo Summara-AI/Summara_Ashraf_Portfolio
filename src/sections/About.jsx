@@ -80,7 +80,7 @@ export default function About() {
           maxWidth: '550px', margin: '0 auto',
           fontFamily: 'Inter, sans-serif'
         }}>
-          I'm a Full Stack MERN Developer and vibe coder passionate
+          I'm a Software Engineer passionate
           about building immersive, AI-powered web experiences.
         </p>
       </div>
@@ -114,7 +114,7 @@ export default function About() {
             lineHeight: '1.9', marginBottom: '32px',
             fontFamily: 'Inter, sans-serif'
           }}>
-            I'm a vibe coder at heart — I believe in fast iteration,
+            I'm a Software Developer — I believe in fast iteration,
             bold ideas, and shipping things that actually look impressive.
           </p>
 
@@ -126,7 +126,7 @@ export default function About() {
             {[
               { emoji: '🚀', value: '3', label: 'Projects Built' },
               { emoji: '⚡', value: 'MERN', label: 'Stack Expert' },
-              { emoji: '🎨', value: 'Vibe', label: 'Coder' },
+              { emoji: '🎨', value: 'Software Developer', label: 'Coder' },
               { emoji: '📍', value: 'PK', label: 'Based' }
             ].map((stat, i) => (
               <div key={i}
