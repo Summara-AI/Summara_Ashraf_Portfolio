@@ -48,9 +48,9 @@ export default function Hero() {
   const [showCursor, setShowCursor] = useState(true)
 
   const titles = [
-    'Full Stack Developer',
-    'MERN Stack Developer',
-    'Product Manager'
+    'Software Engineer',
+    'Full Stack Developer'
+    
     
   ]
 
