@@ -49,10 +49,7 @@ export default function Footer() {
               width: '6px', height: '6px', borderRadius: '50%',
               background: '#22C55E', boxShadow: '0 0 6px #22C55E'
             }} />
-            <span style={{
-              color: '#94A3B8', fontSize: '12px',
-              fontFamily: 'Inter, sans-serif'
-            }}>Available for freelance</span>
+            
           </div>
         </div>
 
