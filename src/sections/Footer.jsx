@@ -39,7 +39,7 @@ export default function Footer() {
           <p style={{
             color: '#94A3B8', fontSize: '13px',
             fontFamily: 'Inter, sans-serif'
-          }}>Full Stack Developer · Vibe Coder</p>
+          }}>Full Stack Developer</p>
           <div style={{
             display: 'flex', alignItems: 'center',
             gap: '6px', marginTop: '8px',
