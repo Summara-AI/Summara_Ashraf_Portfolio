@@ -221,10 +221,7 @@ export default function Contact() {
               width: '8px', height: '8px', borderRadius: '50%',
               background: '#22C55E', boxShadow: '0 0 8px #22C55E'
             }} />
-            <span style={{
-              color: '#94A3B8', fontSize: '14px',
-              fontFamily: 'Inter, sans-serif'
-            }}>Available for freelance projects</span>
+            
           </div>
           <p style={{
             color: 'rgba(148,163,184,0.5)', fontSize: '12px',
