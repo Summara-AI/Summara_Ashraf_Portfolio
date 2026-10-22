@@ -22,17 +22,7 @@ const projects = [{
     live: 'https://restaurant-website-seven-vert.vercel.app',
     github: 'https://github.com/Summara-AI/Restaurant-Website',
     accent: '#06B6D4'
-  },{
-    number: '03',
-    title: 'PawReport: AI-Veterinary Analysis',
-    description: 'A sophisticated web application that transforms complex veterinary blood work results into clear, actionable insights for dog owners using advanced AI technology.',
-    tech: ['React', 'Nextjs', 'TailwindCSS','AI'],
-    live: 'https://paw-report-ai-veterinary-analysis.vercel.app/',
-    github: 'https://github.com/Summara-AI/PawReport---AI-veterinary-Analysis.git',
-    accent: '#06B6D4'
-    
-  
-  } 
+  }
  
                     
 ]
